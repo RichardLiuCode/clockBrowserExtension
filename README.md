@@ -1,3 +1,11 @@
+# Clock Browser Extension
+
+This is a clock browser extension
+
+# Features
+
+   - Display current time 
+
 ## Installation
 1. **Download the extensions**
    - On the top of the repoistiories, click the green **Code** button and then select **Download as ZIP**.
@@ -18,3 +26,6 @@
   
 - **ignore the popup warning**
   - For sercurity reason, browser will remind you with a popup message that said you turned on the developer mode because you installed a third party extensions, if you make sure the extensions is from trused sources or you checked the code that it is safe to use, then you can ignore the message.
+
+## Screenshot
+![screenshot](screenshot.png)
